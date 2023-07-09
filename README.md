@@ -1,2 +1,2 @@
 # Hello World
- primeiro programa
+ primeiro repositorio do curo Git & GitHub  
